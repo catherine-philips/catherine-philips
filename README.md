@@ -21,7 +21,7 @@ I've recently started my career as an associate data scientist, and I've already
 - **Research:** Research and development efforts aimed at building innovative proof-of-concept models in image recognition technology.
 
 ### 🛠️ Skills
-**Core Skills:** <br>
+**Core Skills** <br>
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Predictive Modelling](https://img.shields.io/badge/Predictive_Modelling-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -29,22 +29,22 @@ I've recently started my career as an associate data scientist, and I've already
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-**Programming Languages:** <br>
+**Programming Languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Data Visualization Tools:** <br>
+**Data Visualization Tools** <br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
  
-**Machine Learning:** <br>
+**Machine Learning** <br>
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Databases:** <br>
+**Databases** <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -70,8 +70,8 @@ Feel free to explore my GitHub repositories to see more of my work. I'm always o
 
 ### 📫 How to Reach Me
 
-- **Email:** cathy.philips247@gmail.com
-- **LinkedIn:** www.linkedin.com/in/catherine-mariana-philips-9bb987225
+- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] cathy.philips247@gmail.com
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/catherine-mariana-philips-9bb987225
   
 ---
 
