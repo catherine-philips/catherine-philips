@@ -1,4 +1,3 @@
-## Hi there 👋
 # Associate Software Engineer- Data
 
 ### EDUCATION
@@ -8,15 +7,12 @@ October 2023
 Distinction
 
 ### EXPERIENCE
-Associate Software Engineer- Data
+**Associate Software Engineer- Data
 July 2024-Present
- Involved in research and development efforts aimed at building
- innovative proof-of-concept models in image recognition
- technology.
- Performed exploratory data analysis using Python and Power BI
- on Insurance data.
+ - Involved in research and development efforts aimed at building innovative proof-of-concept models in image recognition technology.
+ - Performed exploratory data analysis using Python and Power BI on Insurance data.
 
-Data Science Intern
+**Data Science Intern
 GITAA
 May 2022-July 2022
 1) Natural Language Processing and Text Clustering
