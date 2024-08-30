@@ -1,5 +1,6 @@
-# Associate Software Engineer- Data
+# Catherine Mariana Philips
 
+### Associate Software Engineer- Data
 ### EDUCATION
 Masters in Data Science
 Liverpool Hope University
