@@ -36,8 +36,6 @@ May 2022-July 2022
 2) Image Caption Generator using Deep Learning (Coursework)
 3) Bank Marketing Campaign Analysis (Coursework)
 4) HR Analytics: Employee Churn Prediction (Coursework)
-5) OLYMPICS DASHBOARD
-https://app.powerbi.com/reportEmbed?reportId=a0803c54-f745-43e0-9d90-67eaa9a85143&autoAuth=true&ctid=a1152b72-d27b-421d-a487-0ca747aa4688
-
+5) Olympics Dashboard in Power BI
 
 
