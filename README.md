@@ -70,8 +70,8 @@ Feel free to explore my GitHub repositories to see more of my work. I'm always o
 
 ### 📫 How to Reach Me
 
-- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] cathy.philips247@gmail.com
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/catherine-mariana-philips-9bb987225
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) cathy.philips247@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/catherine-mariana-philips-9bb987225
   
 ---
 
