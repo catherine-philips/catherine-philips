@@ -3,10 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Power BI Dashboard</title>
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        .navbar a {
+            color: #fff;
+            padding: 14px 20px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .section {
+            padding: 60px 20px;
+            min-height: 100vh;
+        }
+        .section:nth-of-type(odd) {
+            background: #f4f4f4;
+        }
+        .section h2 {
+            margin-top: 0;
+        }
+        .projects-buttons button {
+            margin: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-    <h1>My Power BI Dashboard</h1>
-    <iframe title="Olympics Dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a0803c54-f745-43e0-9d90-67eaa9a85143&autoAuth=true&ctid=a1152b72-d27b-421d-a487-0ca747aa4688" frameborder="0" allowFullScreen="true"></iframe>
+    <div class="navbar">
+        <a href="#aboutme">About Me</a>
+        <a href="#education">Education</a>
+        <a href="#experience">Experience</a>
+        <a href="#projects">Projects</a>
+    </div>
+
+    <div id="aboutme" class="section">
+        <h2>About Me</h2>
+        <p>This is the About Me section.</p>
+    </div>
+
+    <div id="education" class="section">
+        <h2>Education</h2>
+        <p>This is the Education section.</p>
+    </div>
+
+    <div id="experience" class="section">
+        <h2>Experience</h2>
+        <p>This is the Experience section.</p>
+    </div>
+
+    <div id="projects" class="section">
+        <h2>Projects</h2>
+        <div class="projects-buttons">
+            <button onclick="showProjects('ml')">Machine Learning</button>
+            <button onclick="showProjects('powerbi')">Power BI</button>
+        </div>
+        <div id="ml-projects" style="display: none;">
+            <h3>Machine Learning Projects</h3>
+            <p>Details about Machine Learning projects.</p>
+        </div>
+        <div id="powerbi-projects" style="display: none;">
+            <h3>Power BI Projects</h3>
+            <p>Details about Power BI projects.</p>
+        </div>
+    </div>
+
+    <script>
+        function showProjects(type) {
+            var mlProjects = document.getElementById('ml-projects');
+            var powerbiProjects = document.getElementById('powerbi-projects');
+
+            if (type === 'ml') {
+                mlProjects.style.display = 'block';
+                powerbiProjects.style.display = 'none';
+            } else if (type === 'powerbi') {
+                mlProjects.style.display = 'none';
+                powerbiProjects.style.display = 'block';
+            }
+        }
+    </script>
 </body>
 </html>
