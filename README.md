@@ -6,9 +6,6 @@ I'm Catherine, a budding data scientist with a passion for uncovering insights t
 ### 🎓 Education
 I hold a Masters Degree in Data Science from Liverpool Hope University, where I developed a strong foundation in statistical analysis, programming, and data visualization.
 
-### 🏆 Achievements
-I was awarded the Department General Proficiency Award while graduating with my Bachelors Degree in Information Technology.
-
 ### 💼 Experience
 I've recently started my career as an associate data scientist, and I've already worked on projects that involve:
 
@@ -43,10 +40,6 @@ I've recently started my career as an associate data scientist, and I've already
 **Databases** <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-### 🎯 Goals
-My ultimate goal is to work as a lead data scientist , where I can leverage my data analysis and machine learning skills. I am continuously learning and growing, with a particular focus on mastering deep learning and advanced analytics techniques.
 
 ### 🌟 Projects
 I've worked on several projects that showcase my skills and interests in Machine Learning and Data Visualisation.
