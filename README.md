@@ -1,3 +1,4 @@
+<img src="https://t.bkit.co/w_6718bd06ac75e.gif" />
 # About Me
 
 ## Hi there! 👋
