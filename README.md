@@ -1,4 +1,3 @@
-<img src="https://t.bkit.co/w_6718bd06ac75e.gif" />
 # About Me
 
 ## Hi there! 👋
@@ -53,3 +52,5 @@ Feel free to explore my GitHub repositories to see more of my work. I'm always o
 ---
 
 Thanks for stopping by! 😊
+
+<img src="https://t.bkit.co/w_6718bd06ac75e.gif" />
