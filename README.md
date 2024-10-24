@@ -6,12 +6,6 @@ I'm Catherine, a budding data scientist with a passion for uncovering insights t
 ### 🎓 Education
 I hold a Masters Degree in Data Science from Liverpool Hope University, where I developed a strong foundation in statistical analysis, programming, and data visualization.
 
-### 💼 Experience
-I've recently started my career as an associate data scientist, and I've already worked on projects that involve:
-
-- **Python:** Used these languages to clean, analyze, and model insurance data.
-- **Data Visualization:** Performed EDA and created dashboards using Power BI to understand the insurance data.
-- **Research:** Research and development efforts aimed at building innovative proof-of-concept models in image recognition and computer vision technology.
 
 ### 🛠️ Skills
 **Core Skills** <br>
