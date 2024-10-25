@@ -42,7 +42,7 @@ Feel free to explore my GitHub repositories to see more of my work. I'm always o
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/catherine-mariana-philips-9bb987225
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=catherine-philips&bg_color=000000&color=9e4c98&line=9e4c98&point=383838&area=true&hide_border=true" width="400" height="300" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=catherine-philips&bg_color=000000&color=9e4c98&line=9e4c98&point=383838&area=true&hide_border=true" width="600" height="400" /></a>
 ---
 
 Thanks for stopping by! 😊
