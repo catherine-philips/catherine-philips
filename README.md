@@ -1,4 +1,7 @@
 # About Me
+
+[![Catherine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=catherine-philips&bg_color=000000&color=9e4c98&line=9e4c98&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Hi there! 👋
 I'm Catherine, a budding data scientist with a passion for uncovering insights through data analysis, machine learning, and visualization. Though I’m just starting my career, with 2 months of hands-on experience, I’m committed to developing my skills and contributing to impactful projects. I'm particularly interested in and excited about the intersection of data science and music, aiming to create innovative solutions in this space.
 
