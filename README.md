@@ -5,7 +5,6 @@ I'm Catherine, a budding data scientist with a passion for uncovering insights t
 ### 🎓 Education
 I hold a Masters Degree in Data Science from Liverpool Hope University, where I developed a strong foundation in statistical analysis, programming, and data visualization.
 
-
 ### 🛠️ Skills
 **Core Skills** <br>
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,10 +19,10 @@ I hold a Masters Degree in Data Science from Liverpool Hope University, where I 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 
 **Data Visualization Tools** <br>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
- 
-**Machine Learning** <br>
+<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+
+ **Machine Learning** <br>
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -31,8 +30,8 @@ I hold a Masters Degree in Data Science from Liverpool Hope University, where I 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Databases** <br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 
 ### 🌟 Projects
 I've worked on several projects that showcase my skills and interests in Machine Learning and Data Visualisation.
@@ -49,5 +48,9 @@ Thanks for stopping by! 😊
 
 <!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
 <!--![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)-->
+<!--![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)-->
+<!--![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
+<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)-->
+<!--![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)-->
 
 <img src="https://t.bkit.co/w_6718bd06ac75e.gif" />
