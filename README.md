@@ -1,5 +1,8 @@
 # About Me
 
+![GitHub watchers](https://img.shields.io/github/watchers/badges/shields)
+
+
 ## Hi there! 👋
 I'm Catherine, a budding data scientist with a passion for uncovering insights through data analysis, machine learning, and visualization. Though I’m just starting my career, with 2 months of hands-on experience, I’m committed to developing my skills and contributing to impactful projects. I'm particularly interested in and excited about the intersection of data science and music, aiming to create innovative solutions in this space.
 
