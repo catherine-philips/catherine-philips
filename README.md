@@ -17,7 +17,9 @@ I hold a Masters Degree in Data Science from Liverpool Hope University, where I 
 
 **Programming Languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 
 **Data Visualization Tools** <br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
