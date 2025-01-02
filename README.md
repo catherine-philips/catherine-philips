@@ -55,4 +55,4 @@ Thanks for stopping by! 😊
 <!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)-->
 <!--![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)-->
 
-<img src="https://t.bkit.co/w_6718bd06ac75e.gif" />
+
