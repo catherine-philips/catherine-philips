@@ -1,26 +1,26 @@
 # About Me
 ## Hi there! 👋
-I'm Catherine, a budding data scientist with a passion for uncovering insights through data analysis, machine learning, and visualization. Though I’m just starting my career, with 2 months of hands-on experience, I’m committed to developing my skills and contributing to impactful projects. I'm particularly interested in and excited about the intersection of data science and music, aiming to create innovative solutions in this space.
+I'm Catherine, a budding data scientist with a passion for uncovering insights through data analysis, machine learning, and visualization. With 6 months of hands-on experience in the Insurance and Sports domain, I’m committed to developing my skills and contributing to impactful projects. I'm particularly interested in and excited about the intersection of data science and music, aiming to create innovative solutions in this space.
 
 ### 🎓 Education
 I hold a Masters Degree in Data Science from Liverpool Hope University, where I developed a strong foundation in statistical analysis, programming, and data visualization.
 
 ### 🛠️ Skills
 **Core Skills** <br>
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Predictive Modelling](https://img.shields.io/badge/Predictive_Modelling-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-117A65?style=for-the-badge&logo=docker&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 
 **Programming Languages** <br>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 
 **Data Visualization Tools** <br>
-<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+
 
  **Machine Learning** <br>
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -30,8 +30,9 @@ I hold a Masters Degree in Data Science from Liverpool Hope University, where I 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Databases** <br>
-<img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+
 
 ### 🌟 Projects
 I've worked on several projects that showcase my skills and interests in Machine Learning and Data Visualisation.
