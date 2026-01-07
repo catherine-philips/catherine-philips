@@ -1,6 +1,6 @@
 # About Me
 ## Hi there! 👋
-I'm Catherine, a budding data scientist with a passion for uncovering insights through data analysis, machine learning, and visualization. With 1 yaer hands-on experience as an Associate Software Engineer-Data, especially in the Insurance and Sports domain, I’m committed to developing my skills and contributing to impactful projects. I'm particularly interested in and excited about the intersection of data science and music, aiming to create innovative solutions in this space.
+I'm Catherine, a budding data scientist with a passion for uncovering insights through data analysis, machine learning, and visualization. With 1.6 years hands-on experience as an Associate Software Engineer-Data, especially in the Insurance and Sports domain, I’m committed to developing my skills and contributing to impactful projects. I'm particularly interested in and excited about the intersection of data science and music, aiming to create innovative solutions in this space.
 
 ### 🎓 Education
 I hold a Masters Degree in Data Science from Liverpool Hope University, where I developed a strong foundation in statistical analysis, programming, and data visualization.
